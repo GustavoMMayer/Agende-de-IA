@@ -1,0 +1,12 @@
+[23/11/2026 15:22:08] Horário: 16h | Pedido: "16"
+[23/11/2026 21:07:49] Horário: 14h | Pedido: "14"
+[23/11/2026 21:13:19] Data: 28/11 | Horário: 15h | Serviço/Problema: pneu furado | Pedido original: "dia 28 as 15 horas"
+[23/11/2026 21:13:49] Data: 28/11 | Horário: 15h | Serviço/Problema: troca de oleo | Pedido original: "28 as 15"
+[23/11/2026 21:19:08] Data: 23/11/2026 | Horário: 15h | Serviço/Problema: pintura | Pedido original: "28 as 15"
+[23/11/2026 21:19:42] Data: 29/11/2026 | Horário: 14h | Serviço/Problema: pingando | Pedido original: "dia 29 as 14 horas"
+[23/11/2026 21:24:41] Data: 15/11/2026 | Horário: 15h | Serviço/Problema: nada | Pedido original: "15"
+[23/11/2026 21:26:36] Cliente: Gustavo | Veículo: Fusca | Data: 01/12/2026 | Horário: 14h | Defeito/Serviço: está vanzando oleo pela porta
+[23/11/2026 21:30:12] Cliente: Gustavo | Veículo: carroça | Data: 17/11/2026 | Horário: 17h | Defeito/Serviço: desverminar o cavalo
+[23/11/2026 21:33:06] Cliente: G | Veículo: jumentinho | Data: 28/11/2026 | Horário: 14h | Defeito/Serviço: cruzar
+[24/11/2026 15:12:54] Cliente: Gustavo | Veículo: Palio | Data: 28/11/2026 | Horário: 10h | Defeito/Serviço: Revisão dos freios
+[24/11/2026 15:32:01] Cliente: Gustavo | Veículo: Palio | Data: 16/11/2026 | Horário: 16h | Defeito/Serviço: Revisão de Freios
