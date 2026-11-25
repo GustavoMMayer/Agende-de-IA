@@ -1,3 +1,4 @@
 [25/11/2026 10:13:22] Protocolo: #AF-20261125-101203 | Cliente: Gustavo | Telefone: (48) 98833-4466 | Veículo: Fusca | Data: 26/11/2026 | Horário: 15h | Serviço: trocar oleo
 
 [25/11/2026 10:21:11] Protocolo: #AF-20261125-101808 | Cliente: José | Telefone: (48) 99966-3322 | Veículo: BMW | Data: 26/11/2026 | Horário: 16h | Serviço: troca de vela
+[25/11/2026 10:47:50] Protocolo: #AF-20261125-104654 | Cliente: Gustavo | Telefone: (48) 98866-5522 | Veículo: Palio | Data: 28/11/2026 | Horário: 09h | Serviço: troca de oleo

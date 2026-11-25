@@ -1,1 +1,2 @@
 [25/11/2026 10:22:34] Protocolo: #AF-20261125-102124 | Status: INACABADO (Cancelado pela equipe (N)) | Cliente: Marcos | Telefone: (48) 99955-6644 | Veículo: Ram2500 | Serviço: troca de pneu | Última Data/Hora: 28/11/2026 às 10h
+[25/11/2026 10:48:56] Protocolo: #AF-20261125-104757 | Status: INACABADO (Cancelado pela equipe (N)) | Cliente: Mteus | Telefone: (48) 96633-2244 | Veículo: Fusca | Serviço: revisão geral | Última Data/Hora: 28/11/2026 às 10h
